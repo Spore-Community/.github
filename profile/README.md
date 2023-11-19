@@ -34,7 +34,7 @@ Additionally, while still in early stages, we are working on plans to host a cus
 
 ### Related Projects
 - [SporeServer](https://github.com/Rosalie241/SporeServer) - a functioning custom server that works with the game
-- [Resurrection Capsule](https://github.com/vitor251093/resurrection-capsule) - a WIP custom server for Darkspore, an action RPG spin-off of Spore
+- [Resurrection Capsule (ReCap)](https://github.com/vitor251093/resurrection-capsule) - a WIP custom server for Darkspore, an action RPG spin-off of Spore
 
 ---
 
@@ -47,11 +47,11 @@ Tools such as [SporeModder FX](https://emd4600.github.io/SporeModder-FX/) are cr
 
 ### Related Projects
 - [Spore ModAPI](https://emd4600.github.io/Spore-ModAPI/) - a framework for extending and overriding Spore's code, opening near-unlimited possibilities for new and overhauled content
-- [SporeModder FX](https://emd4600.github.io/SporeModder-FX/) - the current tool for modifying Spore's data files, adding new parts, and changing existing content
+- [SporeModder FX (SMFX)](https://emd4600.github.io/SporeModder-FX/) - the current tool for modifying Spore's data files, adding new parts, and changing existing content
 - [Mod Browser](https://mods.sporecommunity.com/) - a website for browsing and downloading mods
-- [ModAPI Launcher Kit](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/index.html) - the current recommended mod manager
-- [Mod Manager](https://github.com/VanillaCold/Spore-Mod-Manager) - a WIP mod manager designed to be user-friendly
-- [ModLoader](https://github.com/Rosalie241/SporeModLoader) - a command line mod manager
+- [ModAPI Launcher Kit (LK)](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/index.html) - the current recommended mod manager
+- [Spore Mod Manager (SMM)](https://github.com/VanillaCold/Spore-Mod-Manager) - a WIP mod manager designed to be user-friendly
+- [Spore Mod Loader](https://github.com/Rosalie241/SporeModLoader) - a command line mod manager
 
 ---
 
