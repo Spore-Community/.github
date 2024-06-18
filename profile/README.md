@@ -1,7 +1,9 @@
 # Spore Community Hub
 We are a team of dedicated fans working to preserve online features and history for [Spore](http://www.spore.com/), a 2008 video game from [Maxis](https://www.ea.com/ea-studios/maxis).
 
-**Spore Community Hub and the projects listed below are not associated with or endorsed by Electronic Arts or Maxis.** All projects linked are entirely community-run. Please note that not all projects listed here are run by or associated with the Spore Community Hub team. Contact us at sporemasters@sporecommunity.com or join us on Discord: https://discord.gg/66jVk3X
+**Spore Community Hub and the projects listed below are not associated with or endorsed by Electronic Arts or Maxis.**
+
+All projects linked are entirely community-run. Please note that not all projects listed here are run by or associated with the Spore Community Hub team. Contact us at sporemasters@sporecommunity.com or join us on Discord: https://discord.gg/66jVk3X
 
 ---
 
@@ -11,15 +13,18 @@ We want to preserve the 191 million creations created by over 5 million players!
 Our main archiving effort seeks to replicate all of these creations into both a new database and the [Internet Archive](https://archive.org/), so that they can always be accessed by anyone. In addition, we have the [PNG Downloader](https://github.com/Spore-Community/PNG-Downloader), which lets anyone quickly download copies of all creations from any player or Sporecast.
 
 ### Related Projects
-- [PNG Downloader](https://github.com/Spore-Community/PNG-Downloader) - an app to download creations from any player or Sporecast
-- [Asset Tool](https://tools.sporecommunity.com/asset) - get detailed information about any creation, using its unique ID or PNG
+- [PNG Downloader](https://github.com/Spore-Community/PNG-Downloader) - a command line app to download creations from any player or Sporecast
+- [Asset Tool](https://tools.sporecommunity.com/asset) - a web app for getting detailed information about any creation, using its unique ID or PNG
 - [Server ID list](https://github.com/Spore-Community/Server-IDs) - a exhaustive list of every known creation on Spore.com
 - [ID Gatherer](https://github.com/Red-Lattice/spore_id_gatherer) - an app to bulk-search for creations on Spore.com, even ones believed to be lost
 - [Sporepedia Getter](https://github.com/Red-Lattice/sporepedia_getter) - an app to download creations using a list of IDs
 - [SporeGet](https://github.com/Spore-Community/sporeget) - a utility to archive creations as .warc files
-- [PNG Decoder - .NET](https://github.com/Spore-Community/PNG-Decoder-NetCore) - an C#/.NET program to extract information from creation PNGs (obsoleted by Asset Tool)
-- [PNG Decoder - Python](https://github.com/Spore-Community/PNG-Decoder-Python) - a Python program to extract information from creation PNGs (obsoleted by Asset Tool)
+- [PNG Decoder - .NET](https://github.com/Spore-Community/PNG-Decoder-NetCore) - an C#/.NET program to extract information from creation PNGs
+- [PNG Decoder - Python](https://github.com/Spore-Community/PNG-Decoder-Python) - a Python program to extract information from creation PNGs (not maintained)
+- [PNG Decoder - Rust](https://github.com/Red-Lattice/rusty_png_decoder) - a Rust program to extract information from creation PNGs
 - [Adventure Decoder](https://github.com/Spore-Community/Adventure-Decoder) - a Java program to extract adventure data from their PNGs (not maintained)
+- [Adventure Downloader](https://github.com/Red-Lattice/spore_adventure_downloader) - a Rust program to download creations used in an adventure
+- [Creation ZIP Porter](https://github.com/Liskomato/Spore-CreationZIP-Porter) - a game mod that allows importing and exporting creations through zip files, as well as from the cheat console
 
 ---
 
